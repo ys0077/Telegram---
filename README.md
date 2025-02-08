@@ -1,6 +1,9 @@
 # 🚀 Telegram 云控 - 百倍提高营销效率
 
 ### 🔥 长期招代理，有管道收入 🔥
+💬 **联系咨询**
+📩 Telegram: [@tob_zzz](https://t.me/tob_zzz)
+
 
 💡 **适用于群控营销 / 自动化任务 / 账号管理**
 - **批量控制** 多个 Telegram 账号  
@@ -16,6 +19,3 @@
 📌 **演示截图**
 ![演示](./images/1.png)
 ![演示](./images/2.png)
-
-💬 **联系咨询**
-📩 Telegram: [@tob_zzz](https://t.me/tob_zzz)
