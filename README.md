@@ -5,7 +5,7 @@
 ### 可免费测试，满意再付费
 
 💬 **联系咨询**
-📩 Telegram: [@tob_zzz](https://t.me/tob_zzz)
+📩 Telegram: [@karl](https://t.me/karl7007)
 
 
 💡 **适用于群控营销 / 自动化任务 / 账号管理**
